@@ -8,18 +8,12 @@ save_as: index.html
 
 <div id="flexIntro">
     <div id = "intro">
-    Welcome to my little patch of the internet! I'm an undergraduate student at MIT with a passion for machine learning and data science.
-    I'm interested in topics in computer vision, computational photography, and statistical learning. Previously, I did research at 
-    Sensebrain Technology studying bokeh synthesis for mobile cameras.
+    i would like to thank <a href="https://www.brianjsl.com/">Brian Lee</a> for not only letting me steal his format, but in fact grabbing my computer and stealing it from himself on my behalf.
     </p>
-    <h2>updates</h2>
-    <ul>
-       <li> <b>03/2024:</b> Hello World! 
-    </ul>
     </div>
     <figure>
         <img src="images/profile2.jpg" alt="drawing" style="width:40em;" id="profilePhoto"/>
-        <figcaption>This photo was taken at the <i>Jade Garden</i> <br />arboretum in <i>Chuncheon</i>, South Korea</figcaption>
+        <figcaption>this is brian not me</figcaption>
     </figure>
 </div>
 
