@@ -1,12 +1,11 @@
 import os
 import markdown.util
 
-AUTHOR = 'Brian Lee'
-SITENAME = 'brian lee'
-NAME_KOR = '이지상 李知相'
-SITESUBTITLE=u'brianjsl [at] mit [dot] edu'
-BLOG_TITLE=u'the search for intelligence'
-BLOG_SUBTITLE=u'brianjsl\'s blog'
+AUTHOR = 'Ankit Bisain'
+SITENAME = 'ankit bisain'
+SITESUBTITLE=u'ankitb12 [at] mit [dot] edu'
+BLOG_TITLE=u'brian lee'
+BLOG_SUBTITLE=u'ankit\'s blog'
 PATH = 'content'
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
@@ -17,7 +16,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-GITHUB_URL = 'https://github.com/brianjsl/brianjsl.com'
+GITHUB_URL = 'https://github.com/ankitbisain/ankitbisain.github.io'
 
 # Article settings
 ARTICLE_PATHS= ['posts']
@@ -48,8 +47,7 @@ PAGE_SAVE_AS = '{slug}.html'
 THEME = './theme/'
 
 ABOUT_PAGE = '/pages/about.md'
-TWITTER_USERNAME = 'brianjsl'
-GITHUB_USERNAME = 'brianjsl'
+GITHUB_USERNAME = 'ankitbisain'
 
 ENABLE_MATHJAX = False
 MATH_JAX = {
@@ -71,7 +69,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 #static
-STATIC_PATHS=['images', 'favicon.ico']
+STATIC_PATHS=['images', 'files', 'favicon.ico']
 
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
