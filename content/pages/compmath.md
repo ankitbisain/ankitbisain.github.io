@@ -1,7 +1,7 @@
-title: programming
-slug: programming
+title: compmath
+slug: compmath
 lang: en
-summary: programming
+summary: compmath
 status: published
 
-*Coming soon!*
+mfw compmath :0
