@@ -4,7 +4,7 @@ import markdown.util
 AUTHOR = 'Ankit Bisain'
 SITENAME = 'ankit bisain'
 SITESUBTITLE=u'ankitb12 [at] mit [dot] edu'
-BLOG_TITLE=u'brian lee'
+BLOG_TITLE=u'things here maybe?'
 BLOG_SUBTITLE=u'ankit\'s blog'
 PATH = 'content'
 TIMEZONE = 'America/New_York'

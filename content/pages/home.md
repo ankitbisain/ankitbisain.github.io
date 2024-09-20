@@ -8,12 +8,12 @@ save_as: index.html
 
 <div id="flexIntro">
     <div id = "intro">
-    i would like to thank <a href="https://www.brianjsl.com/">Brian Lee</a> for not only letting me steal his format, but in fact grabbing my computer and stealing it from himself on my behalf.
+    i'm a senior at MIT majoring in math!
     </p>
     </div>
     <figure>
-        <img src="images/profile2.jpg" alt="drawing" style="width:40em;" id="profilePhoto"/>
-        <figcaption>this is brian not me</figcaption>
+        <img src="images/profile2.jpeg" alt="drawing" style="width:40em;" id="profilePhoto"/>
+        <figcaption>Svartifoss waterfall in Vatnajökull National Park</figcaption>
     </figure>
 </div>
 

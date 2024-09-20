@@ -1,10 +1,10 @@
-title: compmath
-slug: compmath
+title: handouts
+slug: handouts
 lang: en
-summary: compmath
+summary: handouts
 status: published
 
-i have some handouts:
+i have some geometry handouts!!!
 
 <a href = https://ankitbisain.github.io/files/RatioLemma.pdf>Ratio Lemma:</a> handout describing a length bashing technique based on the ratio lemma that i think is underutilized.
 
