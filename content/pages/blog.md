@@ -3,4 +3,4 @@ slug: blog
 lang: en
 summary: Blog
 template: blog
-status: published
+status: hidden

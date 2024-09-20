@@ -2,6 +2,6 @@ title: about
 slug: about
 lang: en
 summary: About Page
-status: published
+status: hidden
 
 ima senior at mit

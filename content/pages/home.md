@@ -8,12 +8,12 @@ save_as: index.html
 
 <div id="flexIntro">
     <div id = "intro">
-    i'm a senior at MIT majoring in math!
+    senior at MIT majoring in math
     </p>
     </div>
     <figure>
         <img src="images/profile2.jpeg" alt="drawing" style="width:40em;" id="profilePhoto"/>
-        <figcaption>Svartifoss waterfall in Vatnajökull National Park</figcaption>
+        <figcaption>Svartifoss waterfall in Vatnajökull National Park, Iceland</figcaption>
     </figure>
 </div>
 
