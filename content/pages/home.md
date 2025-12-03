@@ -8,11 +8,11 @@ save_as: index.html
 
 <div id="flexIntro">
     <div id = "intro">
-    senior at MIT majoring in math
+    math G1 at princeton
     </p>
     </div>
     <figure>
-        <img src="images/profile2.jpeg" alt="drawing" style="width:40em;" id="profilePhoto"/>
+        <img src="images/profile2.jpeg" alt="drawing" style="width:30em;" id="profilePhoto"/>
         <figcaption>Svartifoss waterfall in Vatnajökull National Park, Iceland</figcaption>
     </figure>
 </div>

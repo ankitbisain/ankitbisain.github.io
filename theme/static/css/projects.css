@@ -1,15 +1,16 @@
-li {
-    display: flex;
-    align-items: center;
-    padding: 2em;
+ol {
+  list-style-type: decimal;
+  padding-left: 2em;
 }
 
-img {
-    width: 300px;
+li {
+  padding: 1em 0;
+}
+
+li::marker {
+  content: "[" counter(list-item) "] ";
 }
 
 .proj {
-    padding-left: 2em;
-    font-size: 20px;
-    justify-items: center;
+  font-size: 20px;
 }

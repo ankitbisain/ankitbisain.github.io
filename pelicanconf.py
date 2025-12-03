@@ -3,9 +3,10 @@ import markdown.util
 
 AUTHOR = "Ankit Bisain"
 SITENAME = "ankit bisain"
-SITESUBTITLE = "ankitb12 [at] mit [dot] edu"
-BLOG_TITLE = "things here maybe?"
-BLOG_SUBTITLE = "ankit's blog"
+SITESUBTITLE = "ab7890 [at] princeton [dot] edu"
+BLOG_TITLE = None
+BLOG_SUBTITLE = None
+SUMMARY_MAX_LENGTH = 50
 PATH = "content"
 TIMEZONE = "America/New_York"
 DEFAULT_LANG = "en"
@@ -68,7 +69,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # static
-STATIC_PATHS = ["images", "files", "favicon.ico"]
+STATIC_PATHS = ["images", "files", "extra", "favicon.ico"]
 
 EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {"path": "favicon.ico"},  # and this

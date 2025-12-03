@@ -5,36 +5,7 @@ summary: Research
 template: projects 
 status: published
 
-<ul>
-<li> 
-    <p class = "proj">
-    <strong>Tight Discrepancy Bounds for {−1, 1}-Matrices Avoiding Certain Zero-Sum Rectangles</strong> <br />
-    Ankit Bisain<br />
-    <strong>(preprint forthcoming)</strong>
-    </p>
-
-    <li> 
-    <p class = "proj">
-    <strong>Subconvexity Implies Effective QUE for Hecke Maaß Cusp Forms on the Modular Surface</strong> <br />
-    Ankit Bisain, Peter Humphries, Andrei Mandelshtam, Noah Walsh, Xun Wang<br />
-    <strong>(to appear in) Essential Number Theory</strong> <br /> <a href="https://arxiv.org/abs/2402.14050">Paper</a> 
-    </p>
-    <li> 
-    <p class = "proj">
-    <strong>An Improved Upper Bound For the Growth Factor in Gaussian Elimination with Complete Pivoting.</strong> <br />
-    Ankit Bisain, Alan Edelman, John Urschel<br />
-    <strong>(submitted for publication)</strong> <br /> <a href="https://arxiv.org/abs/2312.00994">Paper</a> 
-    </p>
-    <li> 
-    <p class = "proj">
-    <strong>Generic Classification and Asymptotic Enumeration of Dope Matrices</strong> <br />
-    Ankit Bisain<br />
-    <strong>Bulletin of the London Mathematical Society (2023)</strong> <br /> <a href="https://arxiv.org/abs/2209.13811">Paper</a>
-    </p>
-    <li> 
-    <p class = "proj">
-    <strong>The Bernardi Formula for Nontransitive Deformations of the Braid Arrangement</strong> <br />
-    Ankit Bisain, Eric Hanson<br />
-    <strong>Electronic Journal of Combinatorics (2021)</strong> <br /> <a href="https://arxiv.org/abs/2010.00930">Paper</a> 
-    </p>
-</ul>
+1. **An Improved Upper Bound For the Growth Factor in Gaussian Elimination with Complete Pivoting.**<br>Ankit Bisain, Alan Edelman, John Urschel (2025).<br>[doi:10.1112/blms.70034](https://doi.org/10.1112/blms.70034). *Bulletin of the London Mathematical Society.*
+2. **Subconvexity Implies Effective QUE for Hecke Maaß Cusp Forms on the Modular Surface.**<br>Ankit Bisain, Peter Humphries, Andrei Mandelshtam, Noah Walsh, Xun Wang (2023).<br>[doi:10.2140/ent.2024.3.101](https://doi.org/10.2140/ent.2024.3.101). *Essential Number Theory*
+3. **Generic Classification and Asymptotic Enumeration of Dope Matrices.**<br>Ankit Bisain (2023).<br>[doi:10.1112/blms.12924](https://doi.org/10.1112/blms.12924). *Bulletin of the London Mathematical Society.*
+4. **The Bernardi Formula for Nontransitive Deformations of the Braid Arrangement.**<br>Ankit Bisain, Eric J. Hanson (2021).<br>[doi:10.37236/10233](https://doi.org/10.37236/10233). *Electronic Journal of Combinatorics.*

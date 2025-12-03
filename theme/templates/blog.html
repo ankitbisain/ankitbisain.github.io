@@ -1,37 +1,35 @@
-{% extends "page.html" %}
-
-{%- block head %}
-{{ super() }}
+{% extends "page.html" %} {%- block head %} {{ super() }}
 <link rel="stylesheet" href="{{ SITEURL }}/theme/css/blog.css" />
-{% endblock -%}
-
-{% block content_title %}
-{% if BLOG_TITLE %}
+{% endblock -%} {% block content_title %} {% if BLOG_TITLE %}
 <h1 id="blogTitle">{{ BLOG_TITLE }}</h1>
-{% endif %}
-{% if BLOG_SUBTITLE %}
+{% endif %} {% if BLOG_SUBTITLE %}
 <h3 id="blogSubtitle">{{ BLOG_SUBTITLE }}</h3>
-{% endif %}
-{% endblock %}
-
-{% block content %}
-
-{{ super() }}
+{% endif %} {% endblock %} {% block content %} {{ super() }}
 <div class="articleList">
-{% for article in articles %}
-        <article class = "blogPost">
-                <!-- <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">#{{ loop.length-loop.index+1 }}: {{ article.title }}</a></h2> </header>-->
-                <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2></header>
-                <section>{{ article.summary }}</section>
-                <footer>
-                    <p>Published: <time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time></p>
-                </footer>
-        </article>
-{% endfor %}
+  {% for article in articles %}
+  <article class="blogPost">
+    <!-- <header> <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">#{{ loop.length-loop.index+1 }}: {{ article.title }}</a></h2> </header>-->
+    <header>
+      <h2>
+        <a
+          href="{{ SITEURL }}/{{ article.url }}"
+          rel="bookmark"
+          title="Permalink to {{ article.title|striptags }}"
+          >{{ article.title }}</a
+        >
+      </h2>
+    </header>
+    <section>{{ article.summary }}</section>
+    <footer>
+      <p>
+        Published:
+        <time datetime="{{ article.date.isoformat() }}">
+          {{ article.locale_date }}
+        </time>
+      </p>
+    </footer>
+  </article>
+  {% endfor %}
 </div>
 
-{% endblock content %}
-
-{% block footer %}
-{{ super() }}
-{% endblock %}
+{% endblock content %} {% block footer %} {{ super() }} {% endblock %}

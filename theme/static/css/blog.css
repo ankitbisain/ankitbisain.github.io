@@ -1,26 +1,30 @@
 article {
-    padding-top: 1em;
-    border-bottom: thin solid gray;
+  padding-top: 1em;
+  border-bottom: thin solid gray;
 }
 
 #blogTitle {
-    font-style: italic;
-    margin-bottom: 0;
+  font-style: italic;
+  margin-bottom: 0;
 }
 
 #blogSubtitle {
-    font-style: normal;
-    margin: 0;
-    font-weight: 100;
+  font-style: normal;
+  margin: 0;
+  font-weight: 100;
 }
 
 .blogPost {
-    width: 70%;
-    font-family: "Roboto",sans-serif;
+  width: 70%;
+  font-family: "Roboto", sans-serif;
 }
 
 .articleList {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blogPost footer {
+  font-size: 0.7em;
 }
